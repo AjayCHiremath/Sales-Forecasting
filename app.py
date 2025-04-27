@@ -93,10 +93,10 @@ if page == "About":
 
     🚀 Predict future sales based on historical data.
 
-    ✅ Risk detection zones  
-    ✅ Forecast growth insights  
-    ✅ Download forecasts  
-    ✅ Visualize forecast distribution & residuals
+    - Risk detection zones  
+    - Forecast growth insights  
+    - Download forecasts  
+    - Visualize forecast distribution & residuals
     """)
     st.stop()
 
