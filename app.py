@@ -11,7 +11,7 @@ from scipy import stats
 from streamlit_option_menu import option_menu
 
 # --- Load Model and Scaler ---
-icon_img = "D:/Course/MyProjects2024/Time Series APP/Images/icon.png"
+icon_img = "Images/icon.png"
 best_model_xg = joblib.load('best_model_xgboost.pkl')
 scaler = joblib.load('scaler_xgboost.pkl')
 
